@@ -49,5 +49,6 @@
         "react-dom"
       ]
     }
-  }
+  },
+  "main": "rollup.config.js"
 }
